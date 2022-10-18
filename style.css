@@ -1,0 +1,38 @@
+body{
+    margin-top: 40px;
+    font-family: sans-serif;
+
+}
+h1{
+    color: #0282F9;
+    font-size: 40px;
+}
+.featured{
+    width: 100%;
+    position:relative ;
+    float:left ;
+    margin-bottom: 50px;
+}
+
+.wrapper {
+    width: 920px;
+    height: 1200px;
+    margin: 0 auto ;
+}
+      
+.whoswho {
+    width: 100%;
+    position: relative;
+    float: left ;
+    margin-bottom: 50px;
+
+}
+    
+.item{
+    position: relative;
+    float: left;
+}
+
+.featured_wonderwoman{
+    margin-left: 20px;
+}
